@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    background-size : cover;
+
+    font-family :'Times New Roman', Times, serif;
+    color : white;
+
+    width : 100vw;
+    height : 100vh;
+}
+.homeWrapper{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    
+    width : 90%;
+    height : 100%;
+}
+.HomeLoading{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    font-size : 50px;
+}
+
+.homeMovies{
+    display : grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap : 50px;
+    column-gap : 20px;
+
+    width : 100%;
+    padding : 20px;
+}
