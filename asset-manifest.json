@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MovieApp-react-for-beginners/static/css/main.b7254ff5.css",
+    "main.js": "/MovieApp-react-for-beginners/static/js/main.21091f9e.js",
+    "index.html": "/MovieApp-react-for-beginners/index.html",
+    "main.b7254ff5.css.map": "/MovieApp-react-for-beginners/static/css/main.b7254ff5.css.map",
+    "main.21091f9e.js.map": "/MovieApp-react-for-beginners/static/js/main.21091f9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7254ff5.css",
+    "static/js/main.21091f9e.js"
+  ]
+}
